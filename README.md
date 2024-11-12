@@ -1,4 +1,4 @@
-# IP-Server
+# Bare-Server
 
 <br>
 
